@@ -1,14 +1,14 @@
 
 ## Documentación de dos programas en EMU8086
 # Programa 1
-* Descripción:  
+Descripción:  
 - Este programa imprime dos mensajes en la pantalla y espera a que el usuario presione una tecla antes de finalizar.
 ![Imagen 1](./Assets/1.png)
 ![Imagen 2](./Assets/2.png)
 ![Imagen 3](./Assets/3.png)
 
 # Programa 2
-* Descripción: 
+Descripción: 
 - Este programa escribe un mensaje en un archivo de texto y luego lo cierra antes de finalizar.
 ![Imagen 4](./Assets/4.png)
 ![Imagen 5](./Assets/5.png)
@@ -16,7 +16,7 @@
 
 
 # Programa 3 
-* Descripción: 
+Descripción: 
 - Este programa utiliza una biblioteca externa para imprimir mensajes en la pantalla y luego espera a que el usuario presione una tecla antes de finalizar.
 ![Imagen 7](./Assets/7.png)
 ![Imagen 8](./Assets/8.png)
