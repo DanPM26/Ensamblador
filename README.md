@@ -1,5 +1,5 @@
 
-## Documentación de dos programas en EMU8086
+## Documentación de tres programas en EMU8086
 # Programa 1
 Descripción:  
 - Este programa imprime dos mensajes en la pantalla y espera a que el usuario presione una tecla antes de finalizar.
